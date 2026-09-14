@@ -18,7 +18,7 @@
 - Email: Noah.nyakito1@gmail.com
 - LinkedIn: Nyakito Noah
 
-  ## Setup
+## Setup
 - user.name=Nyakito
 - user.email=Noah.nyakito1@gmail.com
 
