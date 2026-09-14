@@ -17,3 +17,8 @@
 ## How to Reach Me
 - Email: Noah.nyakito1@gmail.com
 - LinkedIn: Nyakito Noah
+
+  ## Setup
+- user.name=Nyakito
+- user.email=Noah.nyakito1@gmail.com
+
