@@ -57,5 +57,5 @@ I **Strongly** feel that the world is full of beautiful ~people~ it's we making 
 
 I love learning, *Like I am doing right now*
 
-[the websit](Google.com)
+[the website](Google.com)
 
