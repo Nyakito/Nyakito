@@ -19,11 +19,11 @@ I love **Chess**, coding, and *music* (`Good Music`).
 3. Make the commit
 
 ---
-**
+**TOOLS I WISH TO LEARN**
 |  Tools    | Purpose  | Link   |
 |-----------|---------|--------|
-|   CSS     | Styling |   [CSS](https://youtu.be/wRNinF7YQqQ)     |
-|   HTML    | Mark-up |     [HTML](https://youtu.be/qz0aGYrrlhU)   |
+|   Git     | Version control |   [Git](https://git-scm.com/)     |
+|   VScode    | Coding |     [HTML](https://code.visualstudio.com/)   |
 |           |         |        |
 
 ---
@@ -66,7 +66,7 @@ I **Strongly** feel that the world is full of beautiful ~people~, it's us who ma
 
 I love learning, *Like I am doing right now*
 
-![Squid is here](https://www.redbubble.com/shop/squidward+stickers)
+![Squid is here](https://tinyurl.com/57uzexwt)
 
 [The Magic](https://www.google.com/search?q=do+a+barrel+roll)
 
