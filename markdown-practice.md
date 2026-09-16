@@ -1,26 +1,32 @@
 ## My Learning Goals
 ### This Semester
-
+---
 I love **Chess**, coding, and *music* (`Good Music`).
 
+---
+[My Github](github.com/Nyakito)
 [Find Everything here](fingerprint.to)
 
+---
 **Things I want to learn**
 - HTML
 - CSS
 - Javescript
+**Steps to creating a commit**
 
 1. check what changed in the file
 2. add the file to staging area
 3. Make the commit
 
+---
+**
 |  Tools    | Purpose  | Link   |
 |-----------|---------|--------|
-|Behaviourism        |         |        |
-|       HTML    |         |        |
+|   CSS     | Styling |   [CSS](https://youtu.be/wRNinF7YQqQ)     |
+|   HTML    | Mark-up |     [HTML](https://youtu.be/qz0aGYrrlhU)   |
 |           |         |        |
 
-
+---
 Things needed to learn Development effectively.
 1. HTML[]
 2. CSS []
@@ -29,10 +35,10 @@ Things needed to learn Development effectively.
 5. GIT [x]
 6. GITHUB [x]
 
-code block
+---
+**code block**
 
-```
-index.tml
+```index.html
 <!DOCTYPE html>
 <html>
 <head>
@@ -44,18 +50,23 @@ index.tml
 </body>
 </html>
 ```
+---
 
->I used to not understand the power of silence and observation, but humans talk but it sometimes not reveal them, to know the mind truly wants.
+>The only true limitation exists in the mind, living to your maximum is easy, just not simple.
 
-
+---
 #About me
-I **Strongly** feel that the world is full of beautiful ~people~ it's we making *monsters* and straight complain but do nothing about it.
 
-> THESE ARE THE THINGS THAT MAKE THE GITHUB LIVE.
+I **Strongly** feel that the world is full of beautiful ~people~, it's us who make *monsters* and straight up complain. Do nothing about it and call it **fate**.
 
-1. i LOVE CHESS, A BEAUTIFUL GAME THAT ONE.
+> THESE ARE THE THINGS THAT MAKE THE GITHUB LIVE, FIRE THE CREATION FOR NEXT ~~GENRATION~~, GENERATION.
+
+1. I LOVE CHESS, A BEAUTIFUL GAME THAT ONE.
+2. I Love Human Beings, Adaptable Beings they are.
 
 I love learning, *Like I am doing right now*
 
-[the website](Google.com)
+![Squid is here](https://www.redbubble.com/shop/squidward+stickers)
+
+[The Magic](https://www.google.com/search?q=do+a+barrel+roll)
 
