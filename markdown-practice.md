@@ -5,6 +5,7 @@ I love **Chess**, coding, and *music* (`Good Music`).
 
 ---
 [My Github](github.com/Nyakito)
+
 [Find Everything here](fingerprint.to)
 
 ---
