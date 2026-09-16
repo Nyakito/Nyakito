@@ -13,6 +13,7 @@ I love **Chess**, coding, and *music* (`Good Music`).
 - HTML
 - CSS
 - Javescript
+
 **Steps to creating a commit**
 
 1. check what changed in the file
@@ -29,12 +30,12 @@ I love **Chess**, coding, and *music* (`Good Music`).
 
 ---
 Things needed to learn Development effectively.
-1. HTML[]
-2. CSS []
-3. JAVASCRIPT []
-4. NODE.JS []
-5. GIT [x]
-6. GITHUB [x]
+- [ ] HTML
+- [ ] CSS
+- [ ] JAVASCRIPT
+- [ ] NODE.JS
+- [x] GIT
+- [x] GITHUB
 
 ---
 **code block**
@@ -56,7 +57,7 @@ Things needed to learn Development effectively.
 >The only true limitation exists in the mind, living to your maximum is easy, just not simple.
 
 ---
-#About me
+**About me**
 
 I **Strongly** feel that the world is full of beautiful ~people~, it's us who make *monsters* and straight up complain. Do nothing about it and call it **fate**.
 
@@ -67,7 +68,8 @@ I **Strongly** feel that the world is full of beautiful ~people~, it's us who ma
 
 I love learning, *Like I am doing right now*
 
-![Squid is here](https://tinyurl.com/57uzexwt)
+*Simple Notes*
+![Simple Notes](https://i.pinimg.com/736x/69/6d/0e/696d0e8039f8fe841ca7bef57cea0b66.jpg)
 
-[The Magic](https://www.google.com/search?q=do+a+barrel+roll)
+[Click Me!](https://www.google.com/search?q=do+a+barrel+roll)
 
