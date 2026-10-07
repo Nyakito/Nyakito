@@ -22,3 +22,7 @@
 - user.name=Nyakito
 - user.email=Noah.nyakito1@gmail.com
 
+[Team Repository link](https://github.com/Nyakito/iyf-s12-week-00-team-Nyakito)
+
+[my live page](Nyakito.github.io)
+
