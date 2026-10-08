@@ -24,5 +24,5 @@
 
 [Team Repository link](https://github.com/Nyakito/iyf-s12-week-00-team-Nyakito)
 
-[my live page](Nyakito.github.io)
+[my live page](https://Nyakito.github.io)
 
